@@ -19,7 +19,7 @@ fh=fftshift(20*log10(abs(fft(g3,1024))));
 
 hh= h1/(h1*h1');
 x2= conv(x1,g3);
-%x2 = conv(x3,g3);
+
 
 offset = 3; 
 

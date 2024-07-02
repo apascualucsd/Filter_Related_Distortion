@@ -18,4 +18,4 @@ Cheby1_matched: Pass the output of the cheby1 filter through the Matched filter
 
 FIR_filter: Pass through a 30-tap linear phase FIR Filter 
 
-FIR_filter_matched: ass the output of the FIR filter through the Matched filter
+FIR_filter_matched: Pass the output of the FIR filter through the Matched filter
